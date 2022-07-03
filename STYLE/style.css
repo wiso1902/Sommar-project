@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> ee884a791281ddbcc740e3d18a1afc8c6d09924b
 nav{
     width: 80%;
     position: sticky;
@@ -5,6 +9,7 @@ nav{
     z-index: 1;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
 }
 
 .nav-links{
@@ -126,29 +131,57 @@ a{
     overflow: visible;
     text-align: right;
     padding-right: 20%;
+=======
+>>>>>>> ee884a791281ddbcc740e3d18a1afc8c6d09924b
 }
 
-.image{
+.nav-links{
+    background-color: white;
+    overflow: visible;
+    
+    
+}
+
+a{
+    flex: 1;
+    text-decoration: none;
+    outline: none;
+    line-height: 3;
+    color: #5d2c4e;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.logo{
     text-align: left;
+    padding-right: 20%;
 }
 
 .image-nav{
     width: 200px;
-    height: 75px;
-    padding-left: 20%;
+    height: 70px;
+    padding-left: 10%;
 }
 
+<<<<<<< HEAD
 .nav-bar a{
     padding-right: 20%;
     position: static;
     color: purple;
+=======
+.nav-links a{
+    padding: 20px;
+    position: static;
+    
+>>>>>>> ee884a791281ddbcc740e3d18a1afc8c6d09924b
 }
 
-.nav-bar a:hover{
-    color: red;
+.nav-links a:hover{
+    color: #cf2e2e;
 }
 
-.nav-bar a.active{
+.nav-links a.active{
     background-color: black;
     color: white;
 }*/
