@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> ee884a791281ddbcc740e3d18a1afc8c6d09924b
 nav{
     width: 80%;
     position: sticky;
@@ -9,7 +6,6 @@ nav{
     z-index: 1;
     display: flex;
     align-items: center;
-<<<<<<< HEAD
 }
 
 .nav-links{
@@ -131,8 +127,6 @@ a{
     overflow: visible;
     text-align: right;
     padding-right: 20%;
-=======
->>>>>>> ee884a791281ddbcc740e3d18a1afc8c6d09924b
 }
 
 .nav-links{
